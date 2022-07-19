@@ -5,7 +5,8 @@ import React from 'react';
 
     onFormSubmit = event => {
       event.preventDefault();
-      console.log(this.state.term);
+
+      this.props.onSubmit(this.state.term) // get access to the callback from app to searchbar
     }
 
     render () {
