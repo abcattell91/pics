@@ -1,3 +1,31 @@
+# React Picture Search
+This is a React Picture Search App using the Unsplash API.
+<br>
+<br>
+
+
+![Screenshot](https://github.com/abcattell91/pics/blob/master/public/image.png)
+
+
+## Table of Contents
+- [General Info](#general-information)
+- [Setup](#setup)
+- [Project Status](#project-status)
+
+<!-- * [License](#license) -->
+
+## General Information
+
+- This is a picture search website, written in React.
+- This allows you to search for any picture.
+- This project was completed to practice learning React and served as an opportunity to develop my skills in:
+
+* React
+
+
+## Setup
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +96,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Status
+
+Project is: Finished
